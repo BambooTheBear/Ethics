@@ -1,0 +1,1 @@
+Platon versteht Gerechtigkeit als Tugend eines gerechten Menschen, die höchste der Kardinaltugenden (Besonnenheit/Mäßigung, Tapferkeit und Weisheit), dafür müssen die 3 Seelenteile Begierde, Mut und Vernunft in **Harmonie** stehen.

@@ -1,0 +1,1 @@
+Der Täter-Opfer Ausgleich ist eine Strafform die v.a. bei [[Jugend- und Erwachsenenstrafrecht|Jugendstrafrecht]] und milderen Taten zur Geltung kommt. Ziel ist es das Opfer für seinen Schaden auszugleichen und dem Täter bessere Einsicht und Resozialisierung zu ermöglichen.

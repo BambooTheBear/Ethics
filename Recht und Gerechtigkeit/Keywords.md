@@ -1,0 +1,21 @@
+- [[Rechtspositivismus]]/[[Naturrecht]]
+- [[Funktionen des Rechts]]
+- [[Gerechtigkeit als Tugend]]
+- [[Gerechtigkeit bei Aristoteles]] (austeilende und ausgleichende Gerechtigkeit)
+- [[Rawls]]
+- [[Prinzipien der Gerechtigkeit]]
+- [[Strafzwecktheorien]]
+- Präventionen??
+- [[Tat- und Täterstrafrecht]]
+- [[Schuldfähigkeit]] ??
+- [[Jugend- und Erwachsenenstrafrecht]]
+- [[Täter-Opfer-Ausgleich]]
+- [[Politische Ethik]] ⇒ Definitionen
+- [[Ethik der Bürgerschaft]]
+- [[Formen des Widerstands]]
+- [[Friedensordnung]]
+- [[Menschenwürde]]
+- [[Menschenrechte]]
+- [[Völkerrecht]]
+
+Schuld allgemein???

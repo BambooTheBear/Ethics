@@ -1,0 +1,1 @@
+Die Menschenwürde ist eine unabdingliche, angeborene Würde jedes Menschen, die durch seine Autonomie und Freiheit gerechtfertigt wird.

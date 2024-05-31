@@ -1,0 +1,1 @@
+**Nausea** (der Ekel) ist ein Buch von [[Jean Paul Sartre]], das die Tagebücher des Protagonisten beschreibt, in welchen dieser unter ständiger Übelkeit und Ekel leidet, weil er die Sinnlosigkeit und Indifferenz des Lebens erkannt hat.

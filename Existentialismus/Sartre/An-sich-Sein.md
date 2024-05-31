@@ -1,0 +1,1 @@
+Sachen deren [[Heidegger#Dasein|Dasein]] ohne Bewusstsein von sich selbst passiert, sind **an-sich** und existieren somit in der **_reinen [[Existenz]]_** und haben nicht die Fähigkeit (oder den Willen) ihre [[Essenz]] [[Freiheit|frei]] zu wählen.

@@ -1,0 +1,2 @@
+Chestov war ein russisch-jüdischer Philosoph, der (ähnlich zu Camus) die [[das Absurde#Paradoxa|Widersprüche]] in der Welt und Philosophie analysiert und aufgezeigt hat.
+Laut Camus kommt er am Ende dieser Widersprüche nicht auf [[das Absurde]] sondern nennt es stattdessen Gott.

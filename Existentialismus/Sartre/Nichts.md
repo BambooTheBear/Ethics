@@ -1,0 +1,2 @@
+Das **Nichts** bei [[Jean Paul Sartre]] das Abhanden Sein von etwas Erwaretetem, das erst durch die **Erwartung** (und Enttäuschung dieser Erwartung) eines [[Für-sich-Sein]] entstehen kann.
+Die Erwartung einer [[Essenz]] durch die [[Existenz]] wird also auch zum "Nichts" und macht uns deswegen [[Freiheit|frei]].
