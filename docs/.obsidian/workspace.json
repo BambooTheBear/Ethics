@@ -189,7 +189,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recht und Gerechtigkeit/Keywords.md",
+                "file": "Existentialismus/Camus/Albert Camus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recht und Gerechtigkeit/Keywords.md",
+                "file": "Existentialismus/Camus/Albert Camus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recht und Gerechtigkeit/Keywords.md"
+                "file": "Existentialismus/Camus/Albert Camus.md"
               }
             }
           }
@@ -315,10 +316,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bde7c087b96ed681",
+  "active": "296440e60f3c8bda",
   "lastOpenFiles": [
-    "Völkerrecht.md",
     "Recht und Gerechtigkeit/Keywords.md",
+    "Völkerrecht.md",
     "Politische Ethik.md",
     "Existentialismus/Camus/Albert Camus.md",
     "Existentialismus/Kierkegaard/Kierkegaard.md",
