@@ -1,210 +1,35 @@
 {
   "main": {
-    "id": "a3f52fa42dde4fc2",
+    "id": "be37de4c91c7471d",
     "type": "split",
     "children": [
       {
-        "id": "9b2450d3a3be8af7",
+        "id": "1a1991beaf008f75",
         "type": "tabs",
         "children": [
           {
-            "id": "bde7c087b96ed681",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recht und Gerechtigkeit/Keywords.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "46954af7ae429d57",
+            "id": "a4d5ac18f6e268db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Völkerrecht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cf9a997764f1e8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politische Ethik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "296440e60f3c8bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Existentialismus/Camus/Albert Camus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d891afeda55f24e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Menschenrechte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3477aa49b54b26d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Menschenwürde.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df87503582bcc537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Friedensordnung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92da6882592c6422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formen des Widerstands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06db6b0893555823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethik der Bürgerschaft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebd83e9b1d3fa040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politische Ethik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33bb8b4b8b40085b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Menschenrechte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2338901bddc8bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Existentialismus/Sartre/Jean Paul Sartre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17390f11e7b240bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Täter-Opfer-Ausgleich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0952d550f86fc5a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jugend- und Erwachsenenstrafrecht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "489b5a796ad92f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schuldfähigkeit.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f97b142d8ce148fb",
+    "id": "5f36b305cb0dfd89",
     "type": "split",
     "children": [
       {
-        "id": "bb63dca49b78a588",
+        "id": "0929207c4d063bf3",
         "type": "tabs",
         "children": [
           {
-            "id": "5abbcc8109f153fc",
+            "id": "d12019d537a0a50f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -214,7 +39,7 @@
             }
           },
           {
-            "id": "e952a6aa40c3ca13",
+            "id": "23abb517969d6285",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -229,7 +54,7 @@
             }
           },
           {
-            "id": "2a09fa2bfff2024a",
+            "id": "81bc933328772f44",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -243,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "1386ba3a016f30ce",
+    "id": "38462b42d27d76a1",
     "type": "split",
     "children": [
       {
-        "id": "7b86ea772b47c3a1",
+        "id": "42499753bdb7db11",
         "type": "tabs",
         "children": [
           {
-            "id": "6c9e59e1d46beebe",
+            "id": "464057d98f06953e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Existentialismus/Camus/Albert Camus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,19 +92,18 @@
             }
           },
           {
-            "id": "e3599a6947ec8e70",
+            "id": "1d85f83a6fe56d53",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Existentialismus/Camus/Albert Camus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ca6614f7afb3e50a",
+            "id": "961d6aeec31f2ce2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -291,13 +114,11 @@
             }
           },
           {
-            "id": "c9f756e887b3c372",
+            "id": "4d012b93b446a0ee",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Existentialismus/Camus/Albert Camus.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -312,47 +133,11 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "296440e60f3c8bda",
-  "lastOpenFiles": [
-    "Recht und Gerechtigkeit/Keywords.md",
-    "Völkerrecht.md",
-    "Politische Ethik.md",
-    "Existentialismus/Camus/Albert Camus.md",
-    "Existentialismus/Kierkegaard/Kierkegaard.md",
-    "Existentialismus/Camus/Mythos des Sisyphos.md",
-    "Existentialismus/Camus/Philosophischer Suizid.md",
-    "Existentialismus/Camus/das Absurde.md",
-    "Menschenrechte.md",
-    "Menschenwürde.md",
-    "Friedensordnung.md",
-    "Formen des Widerstands.md",
-    "Ethik der Bürgerschaft.md",
-    "Existentialismus/Sartre/Jean Paul Sartre.md",
-    "Täter-Opfer-Ausgleich.md",
-    "Jugend- und Erwachsenenstrafrecht.md",
-    "Schuldfähigkeit.md",
-    "Recht und Gerechtigkeit/Assets/schuld und strafe.pdf",
-    "Tat- und Täterstrafrecht.md",
-    "Strafzwecktheorien.md",
-    "Recht und Gerechtigkeit/Assets/Sitzung vom 4.10.2023.pdf",
-    "Prinzipien der Gerechtigkeit.md",
-    "Recht und Gerechtigkeit/Assets/10.1.24.pdf",
-    "Recht und Gerechtigkeit/Assets/2_Was ist gerecht_Skript.doc.pdf",
-    "Recht und Gerechtigkeit/Assets/2_Was ist gerecht_Aristoteles.pdf",
-    "Rawls.md",
-    "Recht und Gerechtigkeit/Assets/Sitzung vom 8.11.23 hochgeladen.pdf",
-    "Recht und Gerechtigkeit/Assets/Sitzung vom 11.10.2023.pdf",
-    "Recht und Gerechtigkeit/Assets/Sitzung vom 25.10.2023.pdf",
-    "Gerechtigkeit als Tugend.md",
-    "Funktionen des Rechts.md",
-    "Gerechtigkeit bei Aristoteles.md",
-    "Recht und Gerechtigkeit/Naturrecht.md",
-    "Existentialismus/Antinomie.md",
-    "Untitled",
-    "Existentialismus/Karl Jaspers"
-  ]
+  "active": "a4d5ac18f6e268db",
+  "lastOpenFiles": []
 }
