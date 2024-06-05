@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bde7c087b96ed681",
+            "id": "98ea34fd43a7f820",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recht und Gerechtigkeit/Keywords.md",
+                "file": "Freiheit und Determination/Keywords.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,175 +22,55 @@
             }
           },
           {
-            "id": "46954af7ae429d57",
+            "id": "ab6c0a4dd8a90e59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recht und Gerechtigkeit/Völkerrecht.md",
+                "file": "Freiheit und Determination/Freud.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8cf9a997764f1e8c",
+            "id": "6252aefa9991eab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Existentialismus/Camus/Albert Camus.md",
+                "file": "Freiheit und Determination/Aristoteles.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "296440e60f3c8bda",
+            "id": "be4e965c2f61de98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recht und Gerechtigkeit/Völkerrecht.md",
+                "file": "Freiheit und Determination/Bieri.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d891afeda55f24e2",
+            "id": "fa52e476b7374e3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Recht und Gerechtigkeit/Menschenrechte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3477aa49b54b26d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recht und Gerechtigkeit/Menschenwürde.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df87503582bcc537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recht und Gerechtigkeit/Friedensordnung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92da6882592c6422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recht und Gerechtigkeit/Formen des Widerstands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06db6b0893555823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recht und Gerechtigkeit/Ethik der Bürgerschaft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebd83e9b1d3fa040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recht und Gerechtigkeit/Politische Ethik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33bb8b4b8b40085b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recht und Gerechtigkeit/Menschenrechte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2338901bddc8bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Existentialismus/Sartre/Jean Paul Sartre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17390f11e7b240bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recht und Gerechtigkeit/Täter-Opfer-Ausgleich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0952d550f86fc5a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recht und Gerechtigkeit/Jugend- und Erwachsenenstrafrecht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "489b5a796ad92f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recht und Gerechtigkeit/Schuldfähigkeit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Existentialismus/Camus/Albert Camus.md",
+                "file": "Recht und Gerechtigkeit/Menschenrechte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Existentialismus/Camus/Albert Camus.md",
+                "file": "Recht und Gerechtigkeit/Menschenrechte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Existentialismus/Camus/Albert Camus.md"
+                "file": "Recht und Gerechtigkeit/Menschenrechte.md"
               }
             }
           }
@@ -317,7 +197,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8cf9a997764f1e8c",
+  "active": "fa52e476b7374e3e",
   "lastOpenFiles": [
     "Recht und Gerechtigkeit/Völkerrecht.md",
     "Recht und Gerechtigkeit/Täter-Opfer-Ausgleich.md",
@@ -338,22 +218,23 @@
     "Recht und Gerechtigkeit/Funktionen des Rechts.md",
     "Recht und Gerechtigkeit/Friedensordnung.md",
     "Recht und Gerechtigkeit/Formen des Widerstands.md",
-    "Freiheit und Determination/Keywords.md",
-    "Existentialismus/Metaphysik.md",
-    "Existentialismus/Gödels Unvollständigkeitstheorem.md",
-    "Existentialismus/Chestov.md",
-    "Existentialismus/Antinomie.md",
-    "Existentialismus/Simone/Simone de Beauvoir.md",
-    "Existentialismus/Sartre/Verantwortung.md",
-    "Recht und Gerechtigkeit/Assets/schuld und strafe.pdf",
-    "Recht und Gerechtigkeit/Assets/Sitzung vom 4.10.2023.pdf",
-    "Recht und Gerechtigkeit/Assets/10.1.24.pdf",
-    "Recht und Gerechtigkeit/Assets/2_Was ist gerecht_Skript.doc.pdf",
-    "Recht und Gerechtigkeit/Assets/2_Was ist gerecht_Aristoteles.pdf",
-    "Recht und Gerechtigkeit/Assets/Sitzung vom 8.11.23 hochgeladen.pdf",
-    "Recht und Gerechtigkeit/Assets/Sitzung vom 11.10.2023.pdf",
-    "Recht und Gerechtigkeit/Assets/Sitzung vom 25.10.2023.pdf",
-    "Untitled",
-    "Existentialismus/Karl Jaspers"
+    "Freiheit und Determination/Sozialisation.md",
+    "Freiheit und Determination/Neurobiologie.md",
+    "Freiheit und Determination/Moderne Physik.md",
+    "Freiheit und Determination/Kant.md",
+    "Freiheit und Determination/Freud.md",
+    "Freiheit und Determination/Freiheit und Determination.md",
+    "Freiheit und Determination/Bieri.md",
+    "Freiheit und Determination/Assets/Pasted image 20240603230528.png",
+    "Freiheit und Determination/Assets/1_Sozialisation_Verlauf.pdf",
+    "Freiheit und Determination/Assets/AA Q11 für 15.3.23 Freud.pdf",
+    "Freiheit und Determination/Assets/6_Wilhelm Dilthey_Garten der Philosophie_Skript.pdf",
+    "Freiheit und Determination/Assets/1_Freiheit und Determination_Freud_Jung_Das Unbewusste.pdf",
+    "Freiheit und Determination/Assets/4_Sozialisation_Gladwell_AB1.pdf",
+    "Freiheit und Determination/Assets/3_Freiheit und Determination_Freud_Der psychische Apparat.pdf",
+    "Freiheit und Determination/Assets/5_Freiheit und Determination_Freud_psychische Instanzen und Kultur.pdf",
+    "Freiheit und Determination/Assets/4_Freiheit und Determination_Freud_Übersicht.pdf",
+    "Freiheit und Determination/Assets/5_Sozialisation_Gladwell_AB2.pdf",
+    "Freiheit und Determination/Assets/6_Freiheit und Determination_Freud_Entwicklungsphasen.pdf"
   ]
 }
