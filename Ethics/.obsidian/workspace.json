@@ -22,55 +22,43 @@
             }
           },
           {
-            "id": "ab6c0a4dd8a90e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Freiheit und Determination/Freud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6252aefa9991eab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Freiheit und Determination/Aristoteles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be4e965c2f61de98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Freiheit und Determination/Bieri.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa52e476b7374e3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recht und Gerechtigkeit/Menschenrechte.md",
+                "file": "Recht und Gerechtigkeit/Schuldfähigkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c09164ffa6ce99bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recht und Gerechtigkeit/Gerechtigkeit bei Aristoteles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f28395f0754ebce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recht und Gerechtigkeit/Schuldfähigkeit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kant",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recht und Gerechtigkeit/Menschenrechte.md",
+                "file": "Recht und Gerechtigkeit/Schuldfähigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recht und Gerechtigkeit/Menschenrechte.md",
+                "file": "Recht und Gerechtigkeit/Schuldfähigkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recht und Gerechtigkeit/Menschenrechte.md"
+                "file": "Recht und Gerechtigkeit/Schuldfähigkeit.md"
               }
             }
           }
@@ -197,7 +186,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fa52e476b7374e3e",
+  "active": "f28395f0754ebce8",
   "lastOpenFiles": [
     "Recht und Gerechtigkeit/Völkerrecht.md",
     "Recht und Gerechtigkeit/Täter-Opfer-Ausgleich.md",

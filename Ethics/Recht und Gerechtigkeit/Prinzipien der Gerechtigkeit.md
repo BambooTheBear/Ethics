@@ -3,5 +3,4 @@
 ## egalitäres-Prinzip
 = Jedem das Gleiche
 ## Leistungs-Prinzip
-## Bedürfnis
-#todo
+## Bedürfnis-Prinzip

@@ -45,6 +45,8 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\Users\\benno\\OneDrive\\Desktop\\Ethics\\docs",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ]
 }
